@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Badge]https://img.badgesize.io/https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg[.svg|png|jpg][?compression=gzip|brotli][&label=string][&max=string][&softmax=string]
+![Badge](https://img.badgesize.io/https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg[.svg|png|jpg][?compression=gzip|brotli][&label=string][&max=string][&softmax=string])
 
 Lucas Riechelmann Ramos
 
