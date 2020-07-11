@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Badge](https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg)
+![Flag.Badge](https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg)
 Lucas Riechelmann Ramos
 
 [![Linkedin.Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasriechelmann/)](https://www.linkedin.com/in/lucasriechelmann/)
