@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Flag.Badge](https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg)
+![Badge](https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg)
+https://img.badgesize.io/https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg[.svg|png|jpg][?compression=gzip|brotli][&label=string][&max=string][&softmax=string]
+
 Lucas Riechelmann Ramos
 
 [![Linkedin.Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasriechelmann/)](https://www.linkedin.com/in/lucasriechelmann/)
